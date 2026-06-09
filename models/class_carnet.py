@@ -4,3 +4,4 @@ class Carnet:
         self.fechaCarnet = fechaCarnet
         self.numCarnet = numCarnet
         self.cuota = cuota
+        print 
